@@ -1,7 +1,7 @@
 b_n = 0
 b1 = 0
 b2 = 1
-f_zahl = int(input("Welche Fibonacci Zahl wollen Sie wirklich haben?"))
+f_zahl = int(input("Welche Fibonacci Zahl wollen Sie haben?"))
 
 f_list = []
 
